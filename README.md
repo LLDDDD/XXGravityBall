@@ -1,6 +1,8 @@
 # XXGravityBall
 通过`UIDynamic`与`CoreMotion`实现mobike我的贴纸动画效果
 
+![Image](https://github.com/xxg90s/XXGravityBall/blob/master/MainViewDisplay.png)
+
 如何使用：
 初始化View并自行设置背景和手势支持
 ```
