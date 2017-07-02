@@ -24,6 +24,6 @@
 
 小球尺寸默认为40，如果想要更改，在这里`#define GBBALLWIDTH 40.`
 
-文章博客地址：http://www.jianshu.com/p/cbe29b157e1d
-
 欢迎提问与关注！
+
+文章博客地址：http://www.jianshu.com/p/cbe29b157e1d
