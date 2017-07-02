@@ -23,3 +23,5 @@
 如果需要更多的信息，可以在`GBModel`对象中添加，通过Model控制View。
 
 小球尺寸默认为40，如果想要更改，在这里`#define GBBALLWIDTH 40.`
+
+文章博客地址：http://www.jianshu.com/p/cbe29b157e1d
